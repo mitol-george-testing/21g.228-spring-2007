@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "English as a Second Language"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "60012e7c-181c-e44e-731e-250f6cb6b09a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Workshop in Writing for Social Sciences and Architecture (ELS)",
+  "course_description": "This workshop is designed to help you write clearly, accurately and effectively in both an academic and a professional environment. In class, we analyze various forms of writing and address problems common to advanced speakers of English. We will often read one another's work.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "21G.227",
+  "primary_course_number": "21G.228",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
